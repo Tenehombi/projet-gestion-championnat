@@ -1,0 +1,26 @@
+# Node.js 
+node_modules/ 
+
+# Journaux 
+logs 
+*.log 
+npm-debug.log* 
+
+# Répertoires de dépendances 
+pids 
+logs 
+*.pid 
+*.seed 
+*.pid.lock 
+
+# Répertoire de cache npm facultatif 
+.npm 
+
+# Cache eslint facultatif 
+.eslintcache 
+
+# Historique REPL facultatif 
+.node_repl_history 
+
+# Variables d'environnement 
+.env*
